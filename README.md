@@ -18,7 +18,7 @@ I enjoy solving problems using **modern technologies** and building practical so
 - **Frontend:** React, Next.js, HTML, CSS, Responsive Design  
 - **Backend:** Node.js, MongoDB  
 - **Tools:** Git, GitHub, npm  
-- **Languages:** JavaScript, C, C++, Java  
+- **Languages:** JavaScript, Python, HTML & css  
 
 ---
 
